@@ -8,7 +8,6 @@ You can also just replace with your own images and to generate your new painting
 
 STYLE_IMAGE1 = 'images/Girl before a Mirror.jpg'
 STYLE_IMAGE2 = 'images/Cafe Terrace at Night.jpg'
-
 CONTENT_IMAGE = 'images/Ryoko Hirosue.jpg'
 
 # How to run
